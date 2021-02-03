@@ -1,0 +1,15 @@
+ipykernel
+ipython
+ipython-genutils
+ipywidgets
+jupyter
+jupyter-core
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+plotly
+ipympl
+scipy
+voila
