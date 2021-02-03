@@ -2,3 +2,6 @@ voila
 plotly
 numpy
 scipy
+bqplot
+ipympl
+ipyvolume
